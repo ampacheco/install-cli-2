@@ -1,2 +1,2 @@
 #!/bin/bash
-az group delete acsdcos-rg
+az group delete acsdcos-rg -y
